@@ -1,0 +1,14 @@
+{
+  "name": "rich-presence-seclab",
+  "version": "1.0.0",
+  "description": "Rich Presence By SecLab BR",
+  "main": "rich.js",
+  "scripts": {
+    "start": "node rich.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.2.0",
+    "debug": "^4.3.4",
+    "dotenv": "^16.4.5"
+  }
+}

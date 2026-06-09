@@ -1,0 +1,37 @@
+SecLab BR: https://discord.gg/hBhP3QdWcP
+Lampta Code: https://discord.gg/9ty5R3GPNr
+
+Instrução Simples Token
+
+Extensão para obter seu token discord (Token da sua conta) 
+
+Chrome: https://encurtador.com.br/MqwR
+FireFox: https://encurtador.com.br/HYTO
+
+Versão Mobile use o navegador (Lemur Browser ou Quetta) tem download na play store e pode usar as extensões de cima.
+
+
+- Coloque seu token no arquivo (.env) exemplo: TOKEN:blablabla 
+______
+
+Instrução CMD
+
+Comando para setar dias e horas de atividade
+
+cmd: !setdayrich 
+exemplo: (!setdayrich 12 2) sera adicionado 12 dias e 2 horas
+______
+
+Instrução Simples Index.js
+
+Linha 60: Nome da atividade
+Linha 61: Type (PLAYING,STREAMING e etc)
+Linha 62: details (Descriçao da sua atividade)
+Linha 63: Status de time (N precisa mecher pode acabar bagunçando ele ja muda automatico com o comando !setdayrich)
+
+
+Large Image > Sera a imagem maior
+Small Image > Sera a imagem menor 
+
+large_image: link direto de um jpg, png ou gif exemplo (https://cdn.discordapp.com/attachments/1485464454165565607/1513668865899368548/721885a0d07c1c74b9789349d4d8bbe7.jpg)
+small_image: link direto de um jpg, png ou gif exemplo (https://cdn.discordapp.com/attachments/1485464454165565607/1513668865899368548/721885a0d07c1c74b9789349d4d8bbe7.jpg)
