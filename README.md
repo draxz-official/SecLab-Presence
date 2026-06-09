@@ -32,7 +32,6 @@ Donates: https://pixgo.live/draxzinnn
 
 Distribuído sob a licença MIT.
 
-![Version](https://img.shields.io/badge/Version-1.0-blue)
+![Runtime](https://img.shields.io/badge/Runtime-Node.js-green)
 ![Discord](https://img.shields.io/badge/Discord-Rich%20Presence-5865F2)
-![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-blue)
